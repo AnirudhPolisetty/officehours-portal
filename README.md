@@ -1,6 +1,6 @@
 # OFFICE HOURS Portal
 
-Project for CS5610 Web Development - Spring 2021
+# Project for CS5610 Web Development - Spring 2021
 
 # Team - Infinity Matrix
 
@@ -8,16 +8,16 @@ Project for CS5610 Web Development - Spring 2021
 
 Office hours portal to simplify OH Booking, Add more flexibility and features like Scheduling OH in advance, taking notes and getting ETA for wait times.
 
-Members:
+# Members:
 
-1.Akash Nadkarni
+  1.Akash Nadkarni
 
-2.Aman Batra
+  2.Aman Batra
 
-3.Anirudh Polisetty
+  3.Anirudh Polisetty
 
-4.Yashna Sachdev
+  4.Yashna Sachdev
 
-Mentor(s):
+# Mentor(s):
 
-1.Jose Annunziato
+  1.Jose Annunziato
