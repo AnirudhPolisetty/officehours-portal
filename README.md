@@ -2,7 +2,7 @@
 
 Project for CS5610 Web Development - Spring 2021
 
-Team - Infinity Matrix
+# Team - Infinity Matrix
 
 [Project Description](https://docs.google.com/document/d/12tVdeUMr2IjqQSkFAXFcPnXmNJ99LP5iNLbFs9YO9CQ/edit?ts=60595a77)
 
